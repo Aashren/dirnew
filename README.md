@@ -33,7 +33,7 @@ actions:
 <br>
 <br>
 
-<h1 style="text-align:center" id="CU2"> Contact Us today</h1>
+<h1 style="text-align:center" id="CU2"> Contact Us here</h1>
 <br>
 <br>
 <hr>
